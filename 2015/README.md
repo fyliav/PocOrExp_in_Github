@@ -81,13 +81,13 @@
 ## CVE-2015-8562
  Joomla! 1.5.x, 2.x, and 3.x before 3.4.6 allow remote attackers to conduct PHP object injection attacks and execute arbitrary PHP code via the HTTP User-Agent header, as exploited in the wild in December 2015.
 
-- [https://github.com/paralelo14/JoomlaMassExploiter](https://github.com/paralelo14/JoomlaMassExploiter) : ![starts](https://img.shields.io/github/stars/paralelo14/JoomlaMassExploiter.svg) ![forks](https://img.shields.io/github/forks/paralelo14/JoomlaMassExploiter.svg)
+- [https://github.com/dmonst3r/JoomlaMassExploiter](https://github.com/dmonst3r/JoomlaMassExploiter) : ![starts](https://img.shields.io/github/stars/dmonst3r/JoomlaMassExploiter.svg) ![forks](https://img.shields.io/github/forks/dmonst3r/JoomlaMassExploiter.svg)
 
 - [https://github.com/VoidSec/Joomla_CVE-2015-8562](https://github.com/VoidSec/Joomla_CVE-2015-8562) : ![starts](https://img.shields.io/github/stars/VoidSec/Joomla_CVE-2015-8562.svg) ![forks](https://img.shields.io/github/forks/VoidSec/Joomla_CVE-2015-8562.svg)
 
 - [https://github.com/ZaleHack/joomla_rce_CVE-2015-8562](https://github.com/ZaleHack/joomla_rce_CVE-2015-8562) : ![starts](https://img.shields.io/github/stars/ZaleHack/joomla_rce_CVE-2015-8562.svg) ![forks](https://img.shields.io/github/forks/ZaleHack/joomla_rce_CVE-2015-8562.svg)
 
-- [https://github.com/paralelo14/CVE-2015-8562](https://github.com/paralelo14/CVE-2015-8562) : ![starts](https://img.shields.io/github/stars/paralelo14/CVE-2015-8562.svg) ![forks](https://img.shields.io/github/forks/paralelo14/CVE-2015-8562.svg)
+- [https://github.com/dmonst3r/CVE-2015-8562](https://github.com/dmonst3r/CVE-2015-8562) : ![starts](https://img.shields.io/github/stars/dmonst3r/CVE-2015-8562.svg) ![forks](https://img.shields.io/github/forks/dmonst3r/CVE-2015-8562.svg)
 
 - [https://github.com/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC](https://github.com/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC) : ![starts](https://img.shields.io/github/stars/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC.svg) ![forks](https://img.shields.io/github/forks/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC.svg)
 
@@ -881,9 +881,9 @@
 ## CVE-2015-1579
  Directory traversal vulnerability in the Elegant Themes Divi theme for WordPress allows remote attackers to read arbitrary files via a .. (dot dot) in the img parameter in a revslider_show_image action to wp-admin/admin-ajax.php.  NOTE: this vulnerability may be a duplicate of CVE-2014-9734.
 
-- [https://github.com/paralelo14/WordPressMassExploiter](https://github.com/paralelo14/WordPressMassExploiter) : ![starts](https://img.shields.io/github/stars/paralelo14/WordPressMassExploiter.svg) ![forks](https://img.shields.io/github/forks/paralelo14/WordPressMassExploiter.svg)
+- [https://github.com/dmonst3r/WordPressMassExploiter](https://github.com/dmonst3r/WordPressMassExploiter) : ![starts](https://img.shields.io/github/stars/dmonst3r/WordPressMassExploiter.svg) ![forks](https://img.shields.io/github/forks/dmonst3r/WordPressMassExploiter.svg)
 
-- [https://github.com/paralelo14/CVE-2015-1579](https://github.com/paralelo14/CVE-2015-1579) : ![starts](https://img.shields.io/github/stars/paralelo14/CVE-2015-1579.svg) ![forks](https://img.shields.io/github/forks/paralelo14/CVE-2015-1579.svg)
+- [https://github.com/dmonst3r/CVE-2015-1579](https://github.com/dmonst3r/CVE-2015-1579) : ![starts](https://img.shields.io/github/stars/dmonst3r/CVE-2015-1579.svg) ![forks](https://img.shields.io/github/forks/dmonst3r/CVE-2015-1579.svg)
 
 ## CVE-2015-1578
  Multiple open redirect vulnerabilities in u5CMS before 3.9.4 allow remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via a URL in the (1) pidvesa cookie to u5admin/pidvesa.php or (2) uri parameter to u5admin/meta2.php.
